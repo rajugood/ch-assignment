@@ -10,3 +10,7 @@ If you are a JS novice, here's how to get started:
 2. Run `npm i` in this repo to install dependencies
 3. Run `npm test` to run the automated tests
 4. Run `npm start` to launch `index.js` for any manual testing
+
+
+
+<img width="853" alt="image" src="https://user-images.githubusercontent.com/3939510/226479484-23f6e99c-2f3b-4b8f-971a-b166ae1a392d.png">
